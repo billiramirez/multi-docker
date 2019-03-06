@@ -64,7 +64,7 @@ class Fib extends React.Component{
           {
             this.renderSeenIndexes()
           }
-        <h3>Indexes I've seen</h3>
+        <h3>Values I've calculated</h3>
           {
             this.renderValues()
           }
